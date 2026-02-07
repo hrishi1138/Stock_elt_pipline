@@ -1,0 +1,11 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you have them)
+.venv
+env/
+
+# (Optional) If you want to keep the graphs in the repo, 
+# DON'T add *.png here. If you want to keep the CSVs,
+# DON'T add *.csv here.
